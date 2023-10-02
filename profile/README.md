@@ -1,4 +1,5 @@
-# Hi there! We are the PLME Senate!
+![Brown PLME](/brownplme.png)
+
 The PLME Undergraduate Senate is the official representative body of PLME undergraduate students. Its objectives include the following:
 - To help integrate all eight years of medical education at Brown University and Alpert Medical School.
 - To represent our undergraduate students before the university and medical school's administrations.
